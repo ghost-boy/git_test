@@ -1,1 +1,1 @@
-This ghost-boy's first git project!)
+This is ghost-boy's first git project!)
